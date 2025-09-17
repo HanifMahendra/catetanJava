@@ -1,2 +1,1 @@
-# catetanJava
-Yutori's java resource library
+Learn java language from my resources
