@@ -1,4 +1,4 @@
-package Abstract;
+package abs_tract;
 
 public abstract class Shape {
     // can't create any inner class, because this 'Shape' class is abstract

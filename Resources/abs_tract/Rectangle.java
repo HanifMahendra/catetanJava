@@ -1,4 +1,4 @@
-package Abstract;
+package abs_tract;
 
 public class Rectangle extends Shape {
 

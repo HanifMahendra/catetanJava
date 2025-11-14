@@ -1,4 +1,4 @@
-package Interface;
+package inter_face;
 
 public interface Predator {
     
